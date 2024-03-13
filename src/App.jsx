@@ -1,5 +1,7 @@
 import React from 'react'
-import MuiSwitch from './components/MuiSwitch'
+// import MuiAutoComplite from './components/MuiAutoComplite'
+// import MuiRating from './components/MuiRating'
+// import MuiSwitch from './components/MuiSwitch'
 // import MuiCheckbox from './components/MuiCheckbox'
 // import MuiRadio from './components/MuiRadio'
 // import MuiSelect from './components/MuiSelect'
@@ -16,7 +18,9 @@ const App = () => {
       {/* <MuiSelect /> */}
       {/* <MuiRadio/> */}
       {/* <MuiCheckbox /> */}
-      <MuiSwitch />
+      {/* <MuiSwitch /> */}
+      {/* <MuiRating /> */}
+      {/* <MuiAutoComplite /> */}
     </div>
   )
 }
