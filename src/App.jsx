@@ -1,5 +1,6 @@
 import React from 'react'
-import MuiSpeedDial from './components/MuiSpeedDial'
+import MuiButtonNavigarion from './components/MuiButtonNavigarion'
+// import MuiSpeedDial from './components/MuiSpeedDial'
 // import MuiDrawer from './components/MuiDrawer'
 // import MuiBreadCumbs from './components/MuiBreadCumbs'
 // import MuiNavbar from './components/MuiNavbar'
@@ -38,7 +39,8 @@ const App = () => {
       {/* <MuiLinks /> */}
       {/* <MuiBreadCumbs /> */}
       {/* <MuiDrawer /> */}
-      <MuiSpeedDial />
+      {/* <MuiSpeedDial /> */}
+      <MuiButtonNavigarion />
     </div>
   )
 }
