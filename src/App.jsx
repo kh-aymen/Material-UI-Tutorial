@@ -1,4 +1,5 @@
 import React from 'react'
+import MuiLayout from './components/MuiLayout'
 // import MuiAutoComplite from './components/MuiAutoComplite'
 // import MuiRating from './components/MuiRating'
 // import MuiSwitch from './components/MuiSwitch'
@@ -21,6 +22,7 @@ const App = () => {
       {/* <MuiSwitch /> */}
       {/* <MuiRating /> */}
       {/* <MuiAutoComplite /> */}
+      <MuiLayout />
     </div>
   )
 }
