@@ -1,5 +1,8 @@
 import React from 'react'
-import MuiLayout from './components/MuiLayout'
+import MuiImageList from './components/MuiImageList'
+// import MuiAccordion from './components/MuiAccordion'
+// import MuiCard from './components/MuiCard'
+// import MuiLayout from './components/MuiLayout'
 // import MuiAutoComplite from './components/MuiAutoComplite'
 // import MuiRating from './components/MuiRating'
 // import MuiSwitch from './components/MuiSwitch'
@@ -22,7 +25,10 @@ const App = () => {
       {/* <MuiSwitch /> */}
       {/* <MuiRating /> */}
       {/* <MuiAutoComplite /> */}
-      <MuiLayout />
+      {/* <MuiLayout /> */}
+      {/* <MuiCard /> */}
+      {/* <MuiAccordion /> */}
+      <MuiImageList />
     </div>
   )
 }
