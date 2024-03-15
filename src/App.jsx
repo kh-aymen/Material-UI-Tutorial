@@ -1,5 +1,7 @@
 import React from 'react'
-import MuiTable from './components/MuiTable'
+import MuiSnackbar from './components/MuiSnackbar'
+// import MuiAlert from './components/MuiAlert'
+// import MuiTable from './components/MuiTable'
 // import MuiTooltip from './components/MuiTooltip'
 // import MuiChip from './components/MuiChip'
 // import MuiList from './components/MuiList'
@@ -52,7 +54,9 @@ const App = () => {
       {/* <MuiList /> */}
       {/* <MuiChip /> */}
       {/* <MuiTooltip /> */}
-      <MuiTable />
+      {/* <MuiTable /> */}
+      {/* <MuiAlert /> */}
+      <MuiSnackbar />
     </div>
   )
 }
