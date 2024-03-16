@@ -1,6 +1,10 @@
 import React from 'react'
+// import MuiTaps from './components/MuiTaps'
+// import MuiTimeLine from './components/MuiTimeLine'
+import MuiMasonry from './components/MuiMasonry'
+// import DatePickerPackge from './components/DatePickerPackge'
 // import MuiSkeleton from './components/MuiSkeleton'
-import MuiLoadingButton from './components/MuiLoadingButton'
+// import MuiLoadingButton from './components/MuiLoadingButton'
 // import MuiSnackbar from './components/MuiSnackbar'
 // import MuiDialogo from './components/MuiDialogo.jsx'
 // import MuiProgress from './components/MuiProgress.jsx'
@@ -30,6 +34,7 @@ import MuiLoadingButton from './components/MuiLoadingButton'
 // import MuiTextField from './components/MuiTextField'
 // import MuiTypography from './components/MuiTypography'
 // import MuiButton from './components/MuiButton'
+
 
 const App = () => {
   return (
@@ -64,7 +69,11 @@ const App = () => {
       {/* <MuiDialogo /> */}
       {/* <MuiProgress /> */}
       {/* <MuiSkeleton /> */}
-      <MuiLoadingButton />
+      {/* <MuiLoadingButton /> */}
+      {/* <DatePickerPackge /> */}
+      {/* <MuiTaps /> */}
+      {/* <MuiTimeLine /> */}
+      <MuiMasonry />
     </div>
   )
 }
